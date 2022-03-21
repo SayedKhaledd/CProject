@@ -1,0 +1,4 @@
+/cygdrive/g/Github/CProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/g/Github/CProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/g/Github/CProject/cmake-build-debug/CMakeFiles/ProjectWithFileReading.dir
+/cygdrive/g/Github/CProject/cmake-build-debug/CMakeFiles/Project.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc -g -Wl,--enable-auto-import CMakeFiles/ProjectWithFileReading.dir/ProjectWithFileReading.c.o -o ProjectWithFileReading.exe -Wl,--out-implib,libProjectWithFileReading.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

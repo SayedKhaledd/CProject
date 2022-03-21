@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/Testo.dir/Testo.cpp.o -o Testo.exe -Wl,--out-implib,libTesto.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
